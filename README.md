@@ -2,7 +2,7 @@ This write-up / walkthrough will provide my full process for finishing my own CT
 
 First, we start by modifying `/etc/hosts` to associate the IP address with the host.
 
-![[Pasted image 20251221010544.png]]
+<img width="697" height="65" alt="Pasted image 20251221010544" src="https://github.com/user-attachments/assets/e61062e4-6be2-4d4f-b0ee-d733cdbe4e08" />
 
 We then proceed to take a look at the website.
 
