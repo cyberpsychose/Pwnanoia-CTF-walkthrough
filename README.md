@@ -1,4 +1,5 @@
 This write-up / walkthrough will provide my full process for finishing my own CTF, the pwnanoia CTF
+here is the link of the CTF : https://tryhackme.com/jr/pwnanoia
 
 First, we start by modifying `/etc/hosts` to associate the IP address with the host.
 
